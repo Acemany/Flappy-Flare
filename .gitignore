@@ -1,0 +1,13 @@
+# Compiled/optimised
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv
+
+# Types and lint for pyndustric
+pyndustri.pyi
+pyndustri.py
+
+# Inner files
+test.py
